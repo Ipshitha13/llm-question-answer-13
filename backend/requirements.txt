@@ -18,3 +18,7 @@ typing_extensions==4.10.0
 uvicorn==0.28.0
 watchfiles==0.21.0
 websockets==12.0
+transformers==4.38.2
+torch==2.2.1
+PyPDF2==3.0.1
+python-docx==1.1.0
