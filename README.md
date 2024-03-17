@@ -15,7 +15,7 @@
  
 **Usage**
 # Access API Documentation:
-Once the server is running, you can access the API documentation at http://localhost:8000/docs. This interactive documentation provides details on how to use each endpoint and what parameters are required.
+Once the server is running, you can access the API documentation at http://localhost:3000. This interactive documentation provides details on how to use each endpoint and what parameters are required.
 
 # Upload Files:
 Use the provided /predict endpoint to upload files and ask questions. You can upload files in formats such as PDF, DOCX, CSV, or TXT.
