@@ -46,6 +46,8 @@ def get_answer(question, file):
 
             # Remove extra spaces
             formatted_response = formatted_response.replace(' ', '')
+        else:
+            formatted_response = response
         return formatted_response
 
     except Exception as e:
